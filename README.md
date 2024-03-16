@@ -2,9 +2,10 @@
 
 Calculates discounts for a list of transactions and outputs results to stdout.
 
-## How to run
+### Prerequisites: Java 17
 
-- Pre-requisites: Java 17
+## How to run application:
 - `$ ./gradlew run`
-  Tests:
+
+## How to run tests:
 - `$ ./gradlew test`
